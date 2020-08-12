@@ -1,5 +1,6 @@
 The following functionality & API endpoints are available:
 
+
 Read User Profile
 -GET:  {{url}}/users/me
 
